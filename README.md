@@ -1,2 +1,2 @@
 # Projekt_Sobota_ukf
-predpokladany termin odovzdanie
+predpokladany termin odovzdania
